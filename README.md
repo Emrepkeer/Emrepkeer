@@ -10,6 +10,8 @@ public:
   {
     return {
       "English",
+      "Dutch",
+      "French"
     };
   }
 
@@ -38,8 +40,8 @@ public:
   static const std::unordered_map<std::string, std::string> Socials() const
   {
     return {
-      { "discord", "emrepkeer_" },
-      { "twitter", "emrepkeer" }
+      { "twitter", "Yimura9" },
+      { "discord", "yimura.dev" }
     };
   }
 };
