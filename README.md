@@ -1,3 +1,4 @@
+```cpp
 class AboutMe final
 {
 public:
@@ -9,7 +10,9 @@ public:
   static const std::vector<std::string> Languages() const
   {
     return {
-      "English"
+      "English",
+      "Dutch",
+      "French"
     };
   }
 
@@ -38,8 +41,26 @@ public:
   static const std::unordered_map<std::string, std::string> Socials() const
   {
     return {
-      { "twitter", "emrepkeer" },
-      { "discord", "emrepkeer_" }
+      { "twitter", "Yimura9" },
+      { "discord", "yimura.dev" }
     };
   }
 };
+```
+
+## 🤹 Recent Activity
+```
+🗣 Commented on #3590 in YimMenu/YimMenu
+⬆️ Pushed 1 commit to YimMenu/YimMenu
+🎉 Merged PR #3565 in YimMenu/YimMenu
+❗️ Closed issue #3538 in YimMenu/YimMenu
+⬆️ Pushed 1 commit to YimMenu/YimMenu
+```
+## 🌟 Cool Repos
+```
+⭐️ 1332 📦 YimMenu/YimMenu
+⭐️ 193  📦 Yimura/GTAV-Classes
+⭐️ 52   📦 Yimura/Scraper
+⭐️ 36   📦 Yimura/Injector
+⭐️ 7    📦 Yimura/GTA5-Backend
+```
