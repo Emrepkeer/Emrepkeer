@@ -10,6 +10,7 @@ public:
   static const std::vector<std::string> Languages() const
   {
     return {
+      "Turkish",
       "English"
     };
   }
