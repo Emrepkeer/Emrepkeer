@@ -21,6 +21,7 @@ public:
       "C++",
       "C#",
       "Java",
+      "HTML",
       "NodeJS",
       "Python"
     };
