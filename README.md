@@ -41,8 +41,7 @@ public:
   static const std::unordered_map<std::string, std::string> Socials() const
   {
     return {
-      { "discord", "emrepkeer.dev" },
-      { "twitter", "emrepkeer" }
+      { "discord", "emrepkeer.dev" }
     };
   }
 };
