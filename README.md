@@ -9,7 +9,7 @@ public:
   static const std::vector<std::string> Languages() const
   {
     return {
-      "English"
+      "English",
     };
   }
 
@@ -38,8 +38,8 @@ public:
   static const std::unordered_map<std::string, std::string> Socials() const
   {
     return {
-      { "discord", "emrepkeer_" }
-      { "twitter", "emrepkeer_" },
+      { "discord", "emrepkeer_" },
+      { "twitter", "emrepkeer" }
     };
   }
 };
