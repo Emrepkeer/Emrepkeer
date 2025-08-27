@@ -9,7 +9,7 @@ public class Emrepkeer Profile {
 
     // Bildiği programlama dilleri
     private final String[] knownLanguages = {
-        "Java", "C++", "C#", "HTML", "PHP", "JSON"
+        "Java", "JavaScript", "C++", "C#", "HTML", "CSS", "PHP", "JSON"
     };
 
     // Ana uzmanlık alanı
